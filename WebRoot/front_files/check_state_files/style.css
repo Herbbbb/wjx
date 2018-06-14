@@ -1,0 +1,216 @@
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px
+}
+TD {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Tahoma
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Tahoma
+}
+TEXTAREA {
+	FONT-SIZE: 12px; FONT-FAMILY: Tahoma
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0051a4; TEXT-DECORATION: underline
+}
+A.au:link {
+	TEXT-DECORATION: underline
+}
+A.au:visited {
+	TEXT-DECORATION: underline
+}
+A.au:hover {
+	TEXT-DECORATION: underline
+}
+.heise {
+	COLOR: #000000
+}
+A.heise:link {
+	COLOR: #000000
+}
+A.heise:visited {
+	COLOR: #000000
+}
+A.heise:hover {
+	COLOR: #ff6600
+}
+.blue {
+	COLOR: #0063dc
+}
+A.blue:link {
+	COLOR: #0063dc
+}
+A.blue:visited {
+	COLOR: #0063dc
+}
+A.blue:hover {
+	COLOR: #ff6600
+}
+.blueh {
+	COLOR: #1f56c5
+}
+A.blueh:link {
+	COLOR: #1f56c5
+}
+A.blueh:visited {
+	COLOR: #1f56c5
+}
+A.blueh:hover {
+	COLOR: #c00
+}
+.blueu {
+	COLOR: #0033cc; TEXT-DECORATION: underline
+}
+A.blueu:link {
+	COLOR: #0033cc; TEXT-DECORATION: underline
+}
+A.blueu:visited {
+	COLOR: #0033cc; TEXT-DECORATION: underline
+}
+A.blueu:hover {
+	COLOR: #c00
+}
+.huilan {
+	COLOR: #0066a1
+}
+A.huilan:link {
+	COLOR: #0066a1
+}
+A.huilan:visited {
+	COLOR: #0066a1
+}
+A.huilan:hover {
+	COLOR: #000
+}
+.hui {
+	COLOR: #777777
+}
+A.hui:link {
+	COLOR: #777777
+}
+A.hui:visited {
+	COLOR: #777777
+}
+A.hui:hover {
+	COLOR: #000
+}
+.huiz {
+	COLOR: #333333
+}
+A.huiz:link {
+	COLOR: #333333
+}
+A.huiz:visited {
+	COLOR: #333333
+}
+A.huiz:hover {
+	COLOR: #ff6600
+}
+.cheng {
+	COLOR: #ff5500
+}
+A.cheng:link {
+	COLOR: #ff5500
+}
+A.cheng:visited {
+	COLOR: #ff5500
+}
+A.cheng:hover {
+	COLOR: #000
+}
+.huang {
+	COLOR: #ffff00
+}
+A.huang:link {
+	COLOR: #ffff00
+}
+A.huang:visited {
+	COLOR: #ffff00
+}
+A.huang:hover {
+	COLOR: #ffffff
+}
+.green {
+	COLOR: green
+}
+A.green:link {
+	COLOR: green
+}
+A.green:visited {
+	COLOR: green
+}
+A.green:hover {
+	COLOR: #ff6600
+}
+.red {
+	COLOR: red
+}
+A.red:link {
+	COLOR: red
+}
+A.red:visited {
+	COLOR: red
+}
+A.red:hover {
+	COLOR: #ff6600
+}
+.reds {
+	COLOR: #c00
+}
+A.reds:link {
+	COLOR: #c00
+}
+A.reds:visited {
+	COLOR: #c00
+}
+A.reds:hover {
+	COLOR: #000
+}
+.zise {
+	COLOR: #e6007c
+}
+A.zise:link {
+	COLOR: #e6007c
+}
+A.zise:visited {
+	COLOR: #e6007c
+}
+A.zise:hover {
+	COLOR: #006cff
+}
+.white {
+	COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white:link {
+	COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white:visited {
+	COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white:hover {
+	COLOR: #ffff00; TEXT-DECORATION: none
+}
+.tahoma {
+	FONT-FAMILY: Tahoma
+}
+.big {
+	FONT-SIZE: 14px
+}
+.small {
+	FONT-SIZE: 11px
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.button {
+	BORDER-RIGHT: #59a0d2 1px solid; BORDER-TOP: #59a0d2 1px solid; BACKGROUND: #f5fbff; BORDER-LEFT: #59a0d2 1px solid; COLOR: #2c6aaf; BORDER-BOTTOM: #59a0d2 1px solid
+}

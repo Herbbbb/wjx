@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wenjx"
+  id="myeclipse.1292029813515"
+  context-root="/wenjx"
+  j2ee-spec="5.0"
+  archive="wenjx.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

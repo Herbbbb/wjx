@@ -1,0 +1,142 @@
+<graph caption='张三同志8月份工作量统计' numdivlines='3' lineThickness='3' showValues='0' numVDivLines='10' formatNumberScale='1' rotateNames='1' decimalPrecision='1' anchorRadius='2' anchorBgAlpha='0' numberPrefix='' divLineAlpha='30' showAlternateHGridColor='1' yAxisMinValue='40' shadowAlpha='50' >
+<categories >
+<category Name='1' />
+<category Name='2' />
+<category Name='3' />
+<category Name='4' />
+<category Name='5' />
+<category Name='6' />
+<category Name='7' />
+<category Name='8' />
+<category Name='9' />
+<category Name='10' />
+<category Name='11' />
+<category Name='12' />
+<category Name='13' />
+<category Name='14' />
+<category Name='15' />
+<category Name='16' />
+<category Name='17' />
+<category Name='18' />
+<category Name='19' />
+<category Name='20' />
+<category Name='21' />
+<category Name='22' />
+<category Name='23' />
+<category Name='24' />
+<category Name='25' />
+<category Name='26' />
+<category Name='27' />
+<category Name='28' />
+<category Name='29' />
+<category Name='30' />
+<category Name='31' />
+</categories>
+<dataset seriesName='总计工作量' color='A66EDD' anchorBorderColor='A66EDD' anchorRadius='4'>
+	<set value='7' />
+	<set value='8' />
+	<set value='7' />
+	<set value='6' />
+	<set value='0' />
+	<set value='9' />
+	<set value='12' />
+	<set value='15' />
+	<set value='13' />
+	<set value='7' />
+
+	<set value='6' />
+	<set value='8' />
+	<set value='9' />
+	<set value='6' />
+	<set value='9' />
+	<set value='0' />
+	<set value='0' />
+	<set value='13' />
+	<set value='7' />
+	<set value='7' />
+
+	<set value='6' />
+	<set value='8' />
+	<set value='9' />
+	<set value='6' />
+	<set value='9' />
+	<set value='0' />
+	<set value='0' />
+	<set value='13' />
+	<set value='7' />
+	<set value='7' />
+	<set value='7' />
+</dataset>
+
+
+<dataset seriesName='安排任务' color='F6BD0F' anchorBorderColor='F6BD0F' anchorRadius='4'>
+		<set value='4' />
+	<set value='5' />
+	<set value='7' />	
+	<set value='6' />
+	<set value='0' />
+	<set value='8' />
+	<set value='11' />
+	<set value='13' />
+	<set value='10' />
+	<set value='5' />
+
+	<set value='6' />
+	<set value='7' />
+	<set value='7' />
+	<set value='4' />
+	<set value='7' />
+	<set value='0' />
+	<set value='0' />
+	<set value='8' />
+	<set value='7' />
+	<set value='6' />
+
+	<set value='5' />
+	<set value='8' />
+	<set value='9' />
+	<set value='6' />
+	<set value='7' />
+	<set value='0' />
+	<set value='0' />
+	<set value='9' />
+	<set value='5' />
+	<set value='4' />
+	<set value='7' />
+</dataset>
+<dataset seriesName='加班任务' color='ff0000' anchorBorderColor='ff0000' anchorRadius='4'>
+		<set value='3' />
+	<set value='3' />
+	<set value='0' />	
+	<set value='0' />
+	<set value='0' />
+	<set value='1' />
+	<set value='1' />
+	<set value='2' />
+	<set value='3' />
+	<set value='2' />
+
+	<set value='0' />
+	<set value='1' />
+	<set value='2' />
+	<set value='2' />
+	<set value='2' />
+	<set value='0' />
+	<set value='0' />
+	<set value='5' />
+	<set value='0' />
+	<set value='1' />
+
+	<set value='0' />
+	<set value='0' />
+	<set value='0' />
+	<set value='0' />
+	<set value='2' />
+	<set value='0' />
+	<set value='0' />
+	<set value='4' />
+	<set value='2' />
+	<set value='3' />
+	<set value='0' />
+</dataset>
+</graph>

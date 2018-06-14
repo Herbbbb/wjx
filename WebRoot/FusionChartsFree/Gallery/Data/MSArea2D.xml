@@ -1,0 +1,46 @@
+<graph  divlinecolor='F47E00' numdivlines='4' showAreaBorder='1' areaBorderColor='000000'  showNames='1' numVDivLines='29' vDivLineAlpha='12' formatNumberScale='1' rotateNames='0'  decimalPrecision='0'>
+   <categories>
+      <category name='1' /> 
+      <category name='2' /> 
+      <category name='3' /> 
+      <category name='4' /> 
+      <category name='5' /> 
+      <category name='6' /> 
+      <category name='7' /> 
+      <category name='8' /> 
+      <category name='9' /> 
+      <category name='10' /> 
+      <category name='11' /> 
+      <category name='12' /> 
+   </categories>
+   <dataset  color='FF5904' showValues='0' areaAlpha='50' showAreaBorder='1' areaBorderThickness='2' areaBorderColor='FF0000'>
+      <set value='5' /> 
+      <set value='3' /> 
+      <set value='6' /> 
+      <set value='7' /> 
+      <set value='9' /> 
+      <set value='5' /> 
+      <set value='3' /> 
+      <set value='5' /> 
+      <set value='6' /> 
+      <set value='2' /> 
+      <set value='4' /> 
+      <set value='6' /> 
+   </dataset>
+
+<dataset  color='FF5904' showValues='0' areaAlpha='50' showAreaBorder='1' areaBorderThickness='2' areaBorderColor='FF0000'>
+      <set value='3' /> 
+      <set value='4' /> 
+      <set value='5' /> 
+      <set value='6' /> 
+      <set value='7' /> 
+      <set value='8' /> 
+      <set value='9' /> 
+      <set value='0' /> 
+      <set value='11' /> 
+      <set value='12' /> 
+      <set value='13' /> 
+      <set value='14' /> 
+   </dataset>
+   
+</graph> 

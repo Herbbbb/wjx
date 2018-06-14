@@ -1,0 +1,222 @@
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px
+}
+TD {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Tahoma
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Tahoma
+}
+TEXTAREA {
+	FONT-SIZE: 12px; FONT-FAMILY: Tahoma
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #147dce; TEXT-DECORATION: none
+}
+A.au:link {
+	TEXT-DECORATION: underline
+}
+A.au:visited {
+	TEXT-DECORATION: underline
+}
+A.au:hover {
+	TEXT-DECORATION: underline
+}
+.blue {
+	COLOR: #0063dc
+}
+A.blue:link {
+	COLOR: #0063dc
+}
+A.blue:visited {
+	COLOR: #0063dc
+}
+A.blue:hover {
+	COLOR: #147dce
+}
+.blueh {
+	COLOR: #1f56c5
+}
+A.blueh:link {
+	COLOR: #1f56c5
+}
+A.blueh:visited {
+	COLOR: #1f56c5
+}
+A.blueh:hover {
+	COLOR: #c00
+}
+.blueu {
+	COLOR: #0033cc; TEXT-DECORATION: underline
+}
+A.blueu:link {
+	COLOR: #0033cc; TEXT-DECORATION: underline
+}
+A.blueu:visited {
+	COLOR: #0033cc; TEXT-DECORATION: underline
+}
+A.blueu:hover {
+	COLOR: #c00
+}
+.huilan {
+	COLOR: #0066a1
+}
+A.huilan:link {
+	COLOR: #0066a1
+}
+A.huilan:visited {
+	COLOR: #0066a1
+}
+A.huilan:hover {
+	COLOR: #000
+}
+.hui {
+	COLOR: #666666
+}
+A.hui:link {
+	COLOR: #666666
+}
+A.hui:visited {
+	COLOR: #666666
+}
+A.hui:hover {
+	COLOR: #147dce
+}
+.huiz {
+	COLOR: #333333
+}
+A.huiz:link {
+	COLOR: #333333
+}
+A.huiz:visited {
+	COLOR: #333333
+}
+A.huiz:hover {
+	COLOR: #147dce
+}
+.cheng {
+	COLOR: #ff5500
+}
+A.cheng:link {
+	COLOR: #ff5500
+}
+A.cheng:visited {
+	COLOR: #ff5500
+}
+A.cheng:hover {
+	COLOR: #000
+}
+.huang {
+	COLOR: #ffff00
+}
+A.huang:link {
+	COLOR: #ffff00
+}
+A.huang:visited {
+	COLOR: #ffff00
+}
+A.huang:hover {
+	COLOR: #ffffff
+}
+.green {
+	COLOR: green
+}
+A.green:link {
+	COLOR: green
+}
+A.green:visited {
+	COLOR: green
+}
+A.green:hover {
+	COLOR: #147dce
+}
+.red {
+	COLOR: red
+}
+A.red:link {
+	COLOR: red
+}
+A.red:visited {
+	COLOR: red
+}
+A.red:hover {
+	COLOR: #147dce
+}
+.reds {
+	COLOR: #cc0000
+}
+A.reds:link {
+	COLOR: #cc0000
+}
+A.reds:visited {
+	COLOR: #cc0000
+}
+A.reds:hover {
+	COLOR: #147dce
+}
+.zise {
+	COLOR: #e6007c
+}
+A.zise:link {
+	COLOR: #e6007c
+}
+A.zise:visited {
+	COLOR: #e6007c
+}
+A.zise:hover {
+	COLOR: #006cff
+}
+.qinghui {
+	COLOR: #007caf
+}
+A.qinghui:link {
+	COLOR: #007caf
+}
+A.qinghui:visited {
+	COLOR: #007caf
+}
+A.qinghui:hover {
+	COLOR: #4b5e26
+}
+.white {
+	COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white:link {
+	COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white:visited {
+	COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.white:hover {
+	COLOR: #ffff00; TEXT-DECORATION: none
+}
+.tahoma {
+	FONT-FAMILY: Tahoma
+}
+.big {
+	FONT-SIZE: 14px
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.xiao {
+	FONT-SIZE: 10px; FONT-FAMILY: Tahoma
+}
+.page {
+	BORDER-RIGHT: #87afd0 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #87afd0 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; BORDER-LEFT: #87afd0 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #87afd0 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #e6f7ff
+}
+.pagen {
+	BORDER-RIGHT: #5492c9 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #5492c9 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; BORDER-LEFT: #5492c9 1px solid; COLOR: #fff; PADDING-TOP: 0px; BORDER-BOTTOM: #5492c9 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #68a6dd
+}
+.button {
+	BORDER-RIGHT: #e6f7ff 1px solid; BORDER-TOP: #e6f7ff 1px solid; BACKGROUND: #e6f7ff; BORDER-LEFT: #e6f7ff 1px solid; WIDTH: 23px; COLOR: #000000; BORDER-BOTTOM: #e6f7ff 1px solid; HEIGHT: 17px
+}
